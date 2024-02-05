@@ -1,0 +1,6 @@
+@RndResponseService_HostAddress = http://localhost:5237
+
+GET {{RndResponseService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
